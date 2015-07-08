@@ -6,5 +6,9 @@ public class ContactController {
 	{
 		System.out.println("DiaconustefanDaniel");
 	}
+	public void inplus()
+	{
+		System.out.println("nimic");
+	}
 	
 }
