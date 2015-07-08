@@ -17,4 +17,9 @@ public class ContactController {
 		System.out.println("sasasas");
 	}
 	
+	public void altaMetoda()
+	{
+		System.out.println("altcevaNou");
+	}
+	
 }
