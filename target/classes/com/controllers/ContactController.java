@@ -22,4 +22,10 @@ public class ContactController {
 		System.out.println("altcevaNou");
 	}
 	
+	
+	public void aCinceaMetoda()
+	{
+		System.out.println("push de pe localBranch pe remote origin");
+	}
+	
 }
