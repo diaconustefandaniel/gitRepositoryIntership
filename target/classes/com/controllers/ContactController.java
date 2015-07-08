@@ -33,4 +33,10 @@ public class ContactController {
 		System.out.println("yultima metoda ..metoda argatilor");
 	}
 	
+	public int checkStyle()
+	{
+		if(x%2==0)
+			return x;
+	}
+	
 }
