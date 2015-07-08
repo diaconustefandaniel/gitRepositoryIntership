@@ -12,4 +12,9 @@ public class ContactController {
 		
 	}
 	
+	public void incaAlta3()
+	{
+		System.out.println("sasasas");
+	}
+	
 }
