@@ -12,4 +12,9 @@ public class ContactController {
 		
 	}
 	
+	public void altaMetoda()
+	{
+		System.out.println("altcevaNou");
+	}
+	
 }
