@@ -28,4 +28,9 @@ public class ContactController {
 		System.out.println("push de pe localBranch pe remote origin");
 	}
 	
+	public void ultimaMetoda()
+	{
+		System.out.println("yultima metoda ..metoda argatilor");
+	}
+	
 }
