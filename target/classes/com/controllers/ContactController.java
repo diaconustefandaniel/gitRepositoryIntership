@@ -9,6 +9,7 @@ public class ContactController {
 	public void inplus()
 	{
 		System.out.println("nimic");
+		
 	}
 	
 }
